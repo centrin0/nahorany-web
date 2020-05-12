@@ -1,4 +1,4 @@
-# Směnárna kurzy
+# [![Směnárna kurzy](image/logo.jpg)](#)
 
 ## Nabídka - nákup a prodej valut bez poplatku
 
