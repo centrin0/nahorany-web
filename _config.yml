@@ -6,3 +6,5 @@
 
 # Site settings
 title: Směnárna Kurzy
+
+theme: jekyll-theme-slate
