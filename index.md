@@ -18,10 +18,10 @@ Kurzy aktualizujeme dle momentálního vývoje na burze! Nejlevnější prodejn�
 ## Kurzy měn
 
 | Kód měny/Code of currency/Währungskode | Nákup/Purchase/Ankauf | Prodej/Sell/Verkauf |
-| ---: | ---: | ---: |
-| <img src="image/USD.png" alt="USD" title="USD"> 1 USD |  |  | 
-| <img src="image/EUR.png" alt="EUR" title="EUR"> 1 EUR |  |  |
-| [![GBP](image/GBP.png)](#) 1 GBP |  |  |
+| --- | ---: | ---: | ---: |
+| <img src="image/USD.png" alt="USD" title="USD"> | 1 USD |  |  | 
+| <img src="image/EUR.png" alt="EUR" title="EUR"> | 1 EUR |  |  |
+| <img src="image/GBP.png" alt="GBP" title="EUR"> | 1 GBP |  |  |
 
 ## Kontakt
 
