@@ -19,13 +19,13 @@ Kurzy aktualizujeme dle momentálního vývoje na burze! Nejlevnější prodejn�
 
 Pobočka směnárny se nachází v obci Hliniště, asi 7 km od hraničního přechodu Strážný – Philippsreuth, na hlavním tahu z hranic na Strakonice, Plzeň, Prahu a Prachatice, Lipno, Český Krumlov, České Budějovice.
 
-Otevřeno: 
-- Po-St 9.00 – 18.00 hod.
-- Čt-Pá: 9.00 – 20.00 hod.
-- So: 9.00 – 14.00 hod.
-- Ne: Zavřeno
+### Otevřeno: 
+- **Po-St** 9.00 – 18.00 hod.
+- **Čt-Pá:** 9.00 – 20.00 hod.
+- **So:** 9.00 – 14.00 hod.
+- **Ne:** Zavřeno
 
-Telefon: 
+### Telefon: 
 - +420 775 945 122
 - +420 774 898 850
 
