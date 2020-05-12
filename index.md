@@ -17,15 +17,16 @@ Kurzy aktualizujeme dle momentálního vývoje na burze! Nejlevnější prodejn�
 
 | Kód měny/Code of currency/Währungskode | Nákup/Purchase/Ankauf | Prodej/Sell/Verkauf |
 | --- | --- | --- |
-| 1 USD |  |  | 
-| 1 EUR |  |  |
-| 1 GBP |  |  |
+| [![USD](image/USD.png)](#) 1 USD |  |  | 
+| [![EUR](image/EUR.png)](#) 1 EUR |  |  |
+| [![GBP](image/GBP.png)](#) 1 GBP |  |  |
 
 ## Kontakt
 
 Pobočka směnárny se nachází v obci Hliniště, asi 7 km od hraničního přechodu Strážný – Philippsreuth, na hlavním tahu z hranic na Strakonice, Plzeň, Prahu a Prachatice, Lipno, Český Krumlov, České Budějovice.
 
 ## Otevřeno
+
 | Den | Čas |
 | --- | --- |
 | **Po-St** | 9.00 – 18.00 hod. |
