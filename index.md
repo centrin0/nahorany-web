@@ -23,6 +23,11 @@ Kurzy aktualizujeme dle momentálního vývoje na burze! Nejlevnější prodejn�
 | <img src="image/EUR.png" alt="EUR" title="EUR"> | 1 EUR |  |  |
 | <img src="image/GBP.png" alt="GBP" title="EUR"> | 1 GBP |  |  |
 
+Dále nabízíme směnu:
+- CHF - Švýcarský Frank
+- HUF - Maďarský Forint
+- HKR - Chorvatská Kuna
+
 ## Kontakt
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10489.205564338672!2d13.7444359!3d48.9096498!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x681adce60e913e1b!2sSm%C4%9Bn%C3%A1rna%20JASI%20s.r.o.!5e0!3m2!1scs!2scz!4v1586425680932!5m2!1scs!2scz" width="600" height="450">
