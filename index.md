@@ -38,7 +38,7 @@ Pobočka směnárny se nachází v obci Hliniště, asi 7 km od hraničního př
 | **Po-St** | 9.00 – 18.00 hod. |
 | **Čt-Pá:** | 9.00 – 20.00 hod. |
 | **So:** | 9.00 – 14.00 hod. |
-| **Ne:** | Zavřeno |
+| **Ne:** | Nyní zavřeno |
 
 ### Telefon: 
 - +420 775 945 122
