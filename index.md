@@ -23,10 +23,10 @@ Kurzy aktualizujeme dle momentálního vývoje na burze! Nejlevnější prodejn�
 | <img src="image/EUR.png" alt="EUR" title="EUR"> | 1 EUR |  |  |
 | <img src="image/GBP.png" alt="GBP" title="EUR"> | 1 GBP |  |  |
 
-Dále nabízíme směnu:
-- CHF - Švýcarský Frank
-- HUF - Maďarský Forint
-- HKR - Chorvatská Kuna
+### Dále nabízíme směnu:
+- **CHF - Švýcarský Frank**
+- **HUF - Maďarský Forint**
+- **HKR - Chorvatská Kuna**
 
 ## Kontakt
 
